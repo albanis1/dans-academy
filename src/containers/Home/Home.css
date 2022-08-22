@@ -1,0 +1,29 @@
+.container {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    margin: 100px;
+}
+
+.borderHome {
+    border: 1px solid #000;
+    height: auto;
+    min-height: 500px;
+    padding: 5px 30px;
+}
+
+table, td, th {
+    border: 1px solid;
+    padding: 30px;
+    text-align: center;
+    font-weight: 600;
+}
+
+th {
+    background-color: gainsboro;
+}
+  
+table {
+    width: 100%;
+    border-collapse: collapse;
+}

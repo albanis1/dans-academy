@@ -1,0 +1,16 @@
+.flex {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 2rem;
+}
+
+.leftAuto {
+    margin-left: auto;   
+}
+
+.inputNumber {
+    border: 1px solid hsl(0, 0%, 80%);;
+    border-radius: 2px;
+    padding: 7px
+}

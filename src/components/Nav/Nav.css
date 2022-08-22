@@ -1,0 +1,12 @@
+.containerNav {
+    display: flex;
+    align-items: 'center';
+    align-content: 'center';
+}
+
+.navButton {
+    margin-left: auto;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
